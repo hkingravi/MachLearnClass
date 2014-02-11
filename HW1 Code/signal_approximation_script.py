@@ -1,4 +1,4 @@
-# this script tests Bayesian RBF networks 
+# this script tests signal approximation
 import random 
 
 # numpy stuff
