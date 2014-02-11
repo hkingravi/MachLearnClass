@@ -1,0 +1,8 @@
+# returns evaluations at a user-defined function
+# data assumed to be in column form 
+from numpy import zeros, power, dot 
+def poly_func( data, weight_vec, degree ):
+   # create matrix for feature_map and compute f_vals
+   # note that feature_map is an 
+
+   return f_vals, feature_map
